@@ -1,0 +1,11 @@
+{
+  "name": "some-signals",
+  "version": "0.0.1",
+  "description": "Some signals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Martynov <martynov.pl@gmail.com>",
+  "license": "MIT"
+}
